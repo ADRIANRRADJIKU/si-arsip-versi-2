@@ -1,0 +1,14 @@
+*:root{
+    --primary: red;
+    --info: red;
+    --bs-alert-bg: red !important;
+}
+.underline-on-hover:hover {
+    text-decoration: underline;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
